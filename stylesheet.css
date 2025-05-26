@@ -166,6 +166,6 @@ span.highlight {
 .new-badge {
   display: inline-block;
   vertical-align: middle;
-  margin-left: 3px;
-  height: 24px;
+  margin-left: 1px;
+  height: 26px;
 }
