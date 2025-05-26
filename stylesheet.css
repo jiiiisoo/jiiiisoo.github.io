@@ -147,3 +147,25 @@ span.highlight {
   display: block;
   margin-bottom: 1px;
 }
+
+.highlight-paper {
+  background-color: #fff8dc; /* 연한 노란색 */
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.highlight-paper img.paper-thumb {
+  width: 160px;
+  object-fit: cover;
+}
+
+.new-badge {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 6px;
+  height: 18px;
+}
